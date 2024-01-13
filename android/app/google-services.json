@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "152756306849",
+    "project_id": "glosariusz-rekonstrukto-xlve6l",
+    "storage_bucket": "glosariusz-rekonstrukto-xlve6l.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152756306849:android:33aa4f6e79e02c65b881e0",
+        "android_client_info": {
+          "package_name": "com.szymonkoster.glosariuszrekonstruktora"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADTJFG1t_eV_KGHAgUCSasoKZhNH8GVck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

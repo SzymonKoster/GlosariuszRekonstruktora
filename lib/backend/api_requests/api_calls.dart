@@ -89,7 +89,7 @@ class CreateChatCompletionCall {
   Future<ApiCallResponse> call({
     String? query = '',
     String? imageURL = '',
-    String? apiKey = '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',
+    String? apiKey = 'SECRET API KEY',
   }) async {
     final ffApiRequestBody = '''
 {
